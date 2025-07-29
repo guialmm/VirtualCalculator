@@ -41,12 +41,6 @@ The Virtual Calculator is an innovative project that uses computer vision and ha
 - Modify `virtualcalc.py` to adjust button sizes, colors, or layout.
 - Update the Mediapipe confidence thresholds for better hand tracking.
 
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements or new features.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 - Mediapipe for hand tracking.
 - OpenCV for image processing.
