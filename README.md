@@ -9,6 +9,10 @@ The Virtual Calculator is an innovative project that uses computer vision and ha
 - **Dynamic Interface**: Displays a virtual calculator interface with buttons and expressions.
 - **Error Handling**: Provides feedback for invalid expressions.
 
+
+![Virtual Calculator Demo](virtualcalc.gif)
+
+
 ## Requirements
 - Python 3.8 or higher
 - OpenCV
